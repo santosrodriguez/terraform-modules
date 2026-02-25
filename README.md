@@ -1,1 +1,0 @@
-This repository serves as my personal collection of Terraform modules. As I continue learning and developing new modules, I’ll add them here. It will also serve as a reference and knowledge base to support my growth throughout my career.
